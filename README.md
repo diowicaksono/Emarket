@@ -12,5 +12,9 @@ These below are Emarket's main features
 - Buyer can search for their needs in buyer home screen
 - Seller can create and edit shop
 
-Emarket implement firebase for its database and using email for login. The source code for this project is located inside Emarket-pedagang, Emarket-pembeli, and Emarket-admin branch.
+Emarket implement firebase for its database and using email for login. The source code for this project is located inside Emarket-pedagang, Emarket-pembeli, and Emarket-admin branch. 
+
+These images shown below are the homescreens for seller and buyer.
+![Image of emarket-pedagang](/screenshoots/3a637a3a-2fea-46ee-8c37-ab11e8f1f006.jpg)
+![Image of emarket-pembeli](/screenshoots/6f020d63-d43b-4f70-afe2-3899b3a87ee5.jpg)
 
