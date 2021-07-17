@@ -15,8 +15,9 @@ These below are Emarket's main features
 Emarket implement firebase for its database and using email for login. The source code for this project is located inside Emarket-pedagang, Emarket-pembeli, and Emarket-admin branch. 
 
 These images shown below are the images of homescreen for seller and buyer.
-
+- Seller homescreen
 <img src="https://github.com/gresssa/Emarket/blob/main/screenshoots/3a637a3a-2fea-46ee-8c37-ab11e8f1f006.jpg" width="30%" height="30%">
 
+- Buyer homescreen
 <img src="https://github.com/gresssa/Emarket/blob/main/screenshoots/6f020d63-d43b-4f70-afe2-3899b3a87ee5.jpg" width="30%" height="30%">
 
