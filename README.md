@@ -1,6 +1,6 @@
 # Emarket
 
-Emarket is an application where the user can sell or buy things. This app is working with shop/stall owners around Masnaga residental area, Pulogebang. This app will provide transaction for people around Masnaga residental area for their daily needs from registered shops/stalls on Emarket without leaving home. 
+Emarket is an application where the user can sell or buy things. This app is working with shop/stall owners around Masnaga residental area, Pulogebang. This app will provide transaction for people around Masnaga residental area for their daily needs from registered shops/stalls on Emarket without leaving home. Emarket implement firebase for its database and using email for login. 
 
 Emarket's target segments are
 - People who do business by selling things, and
@@ -12,7 +12,8 @@ These below are Emarket's main features
 - Buyer can search for their needs in buyer home screen
 - Seller can create and edit shop
 
-Emarket implement firebase for its database and using email for login. The source code for this project is located inside Emarket-pedagang, Emarket-pembeli, and Emarket-admin branch. 
+### Source Code and Screenshoots
+The source code for this project is located inside Emarket-pedagang, Emarket-pembeli, and Emarket-admin branch. 
 
 These images shown below are the images of homescreen for seller and buyer.
 - Seller homescreen
